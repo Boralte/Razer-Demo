@@ -1,0 +1,19 @@
+{
+  "name": "razer-demo",
+  "version": "1.0.0",
+  "description": "A demo to show off capabilities of the Razer Chroma SDK with various AAA titles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boralte/Razer-Demo.git"
+  },
+  "author": "Alberto Brusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boralte/Razer-Demo/issues"
+  },
+  "homepage": "https://github.com/Boralte/Razer-Demo#readme"
+}
